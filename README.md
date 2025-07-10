@@ -1,7 +1,7 @@
 # http-server
 
 zig http server implementation 
-
+only supports get requests 200 and 404 response
 try
 
 pip3 install requests
